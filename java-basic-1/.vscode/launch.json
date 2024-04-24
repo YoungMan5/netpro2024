@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NetprolabMember",
+            "request": "launch",
+            "mainClass": "NetprolabMember",
+            "projectName": "java-basic-1_ca987abf"
+        },
+        {
+            "type": "java",
             "name": "StringOperationTest",
             "request": "launch",
             "mainClass": "StringOperationTest",
