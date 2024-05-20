@@ -21,7 +21,7 @@ public class TaskClientWhile {
             while (true) {
                 System.out.println("入力値x以下の最大素数を求める。");
                 System.out.println("値xを入力してください （例：10）");
-                System.out.println("終了する場合は 'q' を入力してください");
+                System.out.println("入力値が１以下または'q'で終了 ");
 
                 String input = scanner.next();
 
