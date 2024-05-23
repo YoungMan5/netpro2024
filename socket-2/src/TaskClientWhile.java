@@ -30,6 +30,7 @@ public class TaskClientWhile {
                 }
 
                 int x;
+                
                 try {
                     x = Integer.parseInt(input);
                 } catch (NumberFormatException e) {
