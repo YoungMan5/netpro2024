@@ -1,0 +1,5 @@
+server
+受信: abc
+
+client
+サーバーからの応答: ABC
