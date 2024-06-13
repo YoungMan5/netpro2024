@@ -10,13 +10,13 @@ import java.awt.Graphics;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-public class FacesAWTMain {
+public class FacesAWTWakaiRyuki {
 
     public static void main(String[] args) {
-        new FacesAWTMain();
+        new FacesAWTWakaiRyuki();
     }
 
-    FacesAWTMain() {
+    FacesAWTWakaiRyuki() {
         FaceFrame f = new FaceFrame();
         f.setSize(800, 800);
         f.addWindowListener(new WindowAdapter() {
